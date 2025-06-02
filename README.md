@@ -13,7 +13,7 @@ This is a Streamlit-based chatbot app that allows users to interact with multipl
 ---
 
 ### 🚀 Live Demo  
-👉 [Click here to launch the app on Streamlit](https://share.streamlit.io/hibasharif/uv_streamlit_chatbot/main/uv_app.py)
+👉 [Click here to launch the app on Streamlit]([https://share.streamlit.io/hibasharif/uv_streamlit_chatbot/main/uv_app.py](https://hibasharif-uv-streamlit-uv-app-jpuqyo.streamlit.app/))
 
 ---
 

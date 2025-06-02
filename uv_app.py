@@ -37,8 +37,8 @@ st.markdown("### ✏️ Enter your prompt below:")
 user_input = st.text_area("Prompt", height=120, placeholder="Ask anything...")
 
 # 🔐 Your OpenRouter API key here
-# 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
-API_KEY = "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"
+# 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
+API_KEY = "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"
 
 # -------------- Query Function ----------------
 def query_model(model, prompt):
